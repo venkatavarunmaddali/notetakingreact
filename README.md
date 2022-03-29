@@ -1,5 +1,5 @@
 # Clone the repo and run 
-###`npm run start`
+`npm run start`
 # You should see the app opening in a browser
 
 # Getting Started with Create React App
